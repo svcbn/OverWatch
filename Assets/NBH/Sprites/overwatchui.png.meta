@@ -1,0 +1,495 @@
+fileFormatVersion: 2
+guid: 0d6210cf9832bda468786b96a2527ccf
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: overwatchui_7
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 838
+        width: 53
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72bfca8b68e6a624f90ccbf28acc893c
+      internalID: 2126673062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overwatchui_10
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 751
+        width: 131
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5338150f66e319f43a4a7d1fe68190d9
+      internalID: -227202874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overwatchui_15
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 639
+        width: 168
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5b9c16a61273b4dafbc85db85b3029
+      internalID: -1941669720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overwatchui_16
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 642
+        width: 59
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea6d8164a84f7647b3648c0735db47a
+      internalID: -1899883468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overwatchui_17
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 647
+        width: 52
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f196c53a912764ebf648835eb782f0
+      internalID: 1068137873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overwatchui_18
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 640
+        width: 59
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5bde51b51b6ce4583eb8b447fef7cb
+      internalID: -649520644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overwatchui_20
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 447
+        width: 169
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc8eddbc308ccf4aa792c1f78df6f6c
+      internalID: 207960377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overwatchui_21
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 600
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b0e8af065e8a2448a1134eef46d73d
+      internalID: -1137604334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overwatchui_31
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 499
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b2a1765d5760945b8b8a63bcfd5746
+      internalID: 2002503324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overwatchui_39
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 71
+        width: 161
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd747bc0b170db244894f783a19cc916
+      internalID: -1444291734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overwatchui_51
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 89
+        width: 36
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f979ab8d4aeb5654f8f26dbcd32f061e
+      internalID: -1358087991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overwatchui_55
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 38
+        width: 66
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d311d01f3071440a10629ca7940623
+      internalID: -2043619548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overwatchui_56
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 34
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89b16fe2ed6e7240a5a28baaa8c8091
+      internalID: -2124036828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overwatchui_0
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 524
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08cf974f6d0ddbc4cbabaf394b20fa31
+      internalID: -82516404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overwatchui_1
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 67
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d55ca4d054ee94896b7d58aa0a58ab
+      internalID: 321855142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: cfe73826bbd4d564f98c00fb419a918a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      overwatchui_45: -554811692
+      overwatchui_42: -838697694
+      overwatchui_50: -1407117376
+      overwatchui_39: -1444291734
+      overwatchui_5: -1889852687
+      overwatchui_25: -287749196
+      overwatchui_31: 2002503324
+      overwatchui_0: -82516404
+      overwatchui_49: -630549424
+      overwatchui_29: -813869516
+      overwatchui_36: -1494989308
+      overwatchui_22: -258415299
+      overwatchui_41: -1540896164
+      overwatchui_30: -938524417
+      overwatchui_44: 1089968387
+      overwatchui_6: -2020602423
+      overwatchui_16: -1899883468
+      overwatchui_2: -1930633572
+      overwatchui_53: -1478672759
+      overwatchui_43: 374147352
+      overwatchui_24: 1439825401
+      overwatchui_10: -227202874
+      overwatchui_14: -955586202
+      overwatchui_56: -2124036828
+      overwatchui_48: -614223879
+      overwatchui_54: -651969421
+      overwatchui_18: -649520644
+      overwatchui_20: 207960377
+      overwatchui_23: 611189223
+      overwatchui_1: 321855142
+      overwatchui_26: -1414668379
+      overwatchui_17: 1068137873
+      overwatchui_46: -445801226
+      overwatchui_12: -1017025331
+      overwatchui_38: -80966804
+      overwatchui_28: 1100677719
+      overwatchui_47: -1759236856
+      overwatchui_3: -336647037
+      overwatchui_32: -8305037
+      overwatchui_13: 2136141555
+      overwatchui_57: 1306681220
+      overwatchui_8: 2096824928
+      overwatchui_35: 13611060
+      overwatchui_52: -936759284
+      overwatchui_55: -2043619548
+      overwatchui_4: 1146818382
+      overwatchui_37: 1145443449
+      overwatchui_51: -1358087991
+      overwatchui_11: 1438764270
+      overwatchui_21: -1137604334
+      overwatchui_34: -1228649443
+      overwatchui_7: 2126673062
+      overwatchui_15: -1941669720
+      overwatchui_27: 1209226963
+      overwatchui_9: 620759715
+      overwatchui_19: 1719397374
+      overwatchui_40: 1377288617
+      overwatchui_33: -1372472980
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
