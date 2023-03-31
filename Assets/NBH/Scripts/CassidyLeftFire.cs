@@ -139,21 +139,21 @@ public class CassidyLeftFire : MonoBehaviour
             EnemyHead enemyHead = hitInfo.transform.GetComponent<EnemyHead>();
             if (enemyHead)
             {
-                GameObject hh = Instantiate(headHit, GameObject.Find("Canvas").transform);
-                hh.GetComponent<Image>().color = new Color(255, 255, 255, 1);
+                GameObject headHitMark = Instantiate(headHit, GameObject.Find("Canvas").transform);
+                headHitMark.GetComponent<Image>().color = new Color(255, 255, 255, 1);
                 SoundManager.Instance.audioSources[2].Play();
             }
             else
             {
-                //¸¸¾à ¸ÂÀº ³à¼®ÀÌ Enemy¶ó¸é
+                //ë§Œì•½ ë§ì€ ë…€ì„ì´ Enemyë¼ë©´
                 TestEnemy testEnemy = hitInfo.transform.GetComponent<TestEnemy>();
                 if (testEnemy)
                 {
-                    //ÇÇ°İ ÀÌº¥Æ®¸¦ È£Ãâ
+                    //í”¼ê²© ì´ë²¤íŠ¸ë¥¼ í˜¸ì¶œ
                     //enemy.OnDamageProcess(hitInfo.point);
 
-                    GameObject bh = Instantiate(bodyHit, GameObject.Find("Canvas").transform);
-                    bh.GetComponent<Image>().color = new Color(255, 255, 255, 1);
+                    GameObject bodyHitMark = Instantiate(bodyHit, GameObject.Find("Canvas").transform);
+                    bodyHitMark.GetComponent<Image>().color = new Color(255, 255, 255, 1);
                     SoundManager.Instance.audioSources[1].Play();
                 }
                 else
