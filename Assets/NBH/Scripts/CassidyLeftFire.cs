@@ -136,7 +136,9 @@ public class CassidyLeftFire : MonoBehaviour
             Destroy(bullet, 3f);
             Destroy(mf, 0.2f);
 
+
             EnemyHead enemyHead = hitInfo.transform.GetComponent<EnemyHead>();
+            
             if (enemyHead)
             {
                 GameObject headHitMark = Instantiate(headHit, GameObject.Find("Canvas").transform);
