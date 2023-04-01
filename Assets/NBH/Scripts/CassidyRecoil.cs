@@ -23,15 +23,14 @@ public class CassidyRecoil : MonoBehaviour
         targetPosition = Vector3.Lerp(targetPosition, Vector3.zero, RS2 * Time.deltaTime);
         currentPosition = Vector3.Lerp(currentPosition, targetPosition, snappiness * Time.deltaTime);
         transform.localPosition = currentPosition;
-        
     }
 
     public void RecoilRotate(float recoilX, float recoilY, float recoilZ, float returnSpeed)
     {
         RS = returnSpeed;
         targetRotation += new Vector3(recoilX, Random.Range(-recoilY, recoilY), Random.Range(-recoilZ, recoilZ));
-
     }
+    
     public void RecoilRotate(float recoilX, float recoilY, float recoilZ, float returnSpeed, int certain)
     {
         RS = returnSpeed;
